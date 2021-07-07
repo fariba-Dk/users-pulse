@@ -1,0 +1,4 @@
+# purpose: so we dont accidentaly push our dependencies or import code to version control when we deploy
+
+node_modules
+notes.txt
